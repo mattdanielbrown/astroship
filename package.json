@@ -22,7 +22,7 @@
     "@tailwindcss/vite": "^4.0.14",
     "astro": "^5.5.2",
     "astro-icon": "^1.1.5",
-    "astro-navbar": "^2.3.9",
+    "astro-navbar": "^2.4.0",
     "astro-seo": "^0.8.4",
     "sharp": "^0.33.5",
     "tailwindcss": "^4.0.14"
